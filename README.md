@@ -7,9 +7,11 @@ capability.
   * [Problem Framing](#problem-framing)
   * [Data Prep](#data-prep)
   * [Testing and Debugging in Machine Learning](#testing-and-debugging-in-machine-learning)
+* [Types of Machine Learning](#types-of-machine-learning)
   * [Clustering Systems](#clustering-systems)
   * [Recommendation Systems](#recommendation-systems)
   * [GANs](#gans)
+  * [Deep Q](#deep-q)
 
 * [Real World Examples](#real-world-examples)
 
@@ -38,6 +40,8 @@ Sources:
 Sources:
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 
+# Types of Machine Learning
+
 ## Clustering Systems
 Sources:
 * [Clustering](https://developers.google.com/machine-learning/clustering)
@@ -49,6 +53,10 @@ Sources:
 ## GANs
 Sources:
 * [Generative Adversarial Networks (GANs)](https://developers.google.com/machine-learning/gan)
+
+## Deep Q
+Sources:
+* [Deep Q Learning](https://www.mlq.ai/deep-reinforcement-learning-q-learning/)
 
 # Real World Examples
 Google has good examples: [Machine Learning Practica](https://developers.google.com/machine-learning/practica)
