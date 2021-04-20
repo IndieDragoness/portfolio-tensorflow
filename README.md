@@ -58,6 +58,8 @@ Sources:
 Sources:
 * [Deep Q Learning](https://www.mlq.ai/deep-reinforcement-learning-q-learning/)
 
+Q-learning works well when we have a relatively simple environment to solve, but when the number of states and actions we can take gets more complex we use deep learning as a function approximator.
+
 # Real World Examples
 Google has good examples: [Machine Learning Practica](https://developers.google.com/machine-learning/practica)
 
