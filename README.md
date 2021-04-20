@@ -57,6 +57,7 @@ Sources:
 ## Deep Q
 Sources:
 * [Deep Q Learning](https://www.mlq.ai/deep-reinforcement-learning-q-learning/)
+* [Deep Q-Learning Tutorial: minDQN](https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc#:~:text=Critically%2C%20Deep%20Q%2DLearning%20replaces,process%20uses%202%20neural%20networks.)
 
 Q-learning works well when we have a relatively simple environment to solve, but when the number of states and actions we can take gets more complex we use deep learning as a function approximator.
 Critically, Deep Q-Learning replaces the regular Q-table with a neural network.
